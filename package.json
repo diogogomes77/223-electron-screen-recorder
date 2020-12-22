@@ -42,6 +42,7 @@
     }
   },
   "dependencies": {
+    "aws-sdk": "^2.815.0",
     "electron-squirrel-startup": "^1.0.0"
   },
   "devDependencies": {
